@@ -1,5 +1,6 @@
 body {
   overflow: hidden; /* Hide scrollbars */
+  background-color:#efcf6c;
 }
 .button{
 	border-style: outset;
@@ -63,7 +64,7 @@ h1.title
 #main
 {
 	font-family: verdana;
-	padding: 20px;
+
 	border-radius: 10px;
 	border: 5px solid #968140;
 	background-color:#efcf6c;
